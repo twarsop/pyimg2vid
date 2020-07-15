@@ -28,3 +28,7 @@ optional arguments:
 - -ovformat [OUTPUT_VIDEO_FORMAT], --output_video_format [OUTPUT_VIDEO_FORMAT]: the output format of the video (default = 'mp4v')
 - -ovfile [OUTPUT_VIDEO_FILENAME], --output_video_filename [OUTPUT_VIDEO_FILENAME]: the output filename for the video (default = 'video.avi')
 - -ovfps [OUTPUT_VIDEO_FPS], --output_video_fps [OUTPUT_VIDEO_FPS]: fps of the output video (default = 2)
+
+# Dependencies
+- opencv (pip install opencv-python)
+- numpy (pip install numpy)
