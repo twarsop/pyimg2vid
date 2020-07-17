@@ -32,3 +32,11 @@ optional arguments:
 # Dependencies
 - opencv (pip install opencv-python)
 - numpy (pip install numpy)
+
+# Example Output
+
+Recently I created an infographic for explaining what data science is, can be found [here](http://codebuildrepeat.blogspot.com/2020/06/what-is-data-science.html)
+
+This was my first time creating an infographic and I went through I lot of iterations before I ended up with something I was happy with. Along the way I kept the intermediate designs I did and thought it would be fun to create a timelapse of these iterations showing how it evolved. This is what prompted me to create the python script in this repo.
+
+You can see the output of using this python script on all the intermediate designs I create [here](https://www.youtube.com/watch?v=wkc-oIIsyAs)
